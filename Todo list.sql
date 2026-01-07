@@ -1,6 +1,6 @@
 -- Create database
-CREATE DATABASE todo_app;
-USE todo_app;
+CREATE DATABASE todo_list;
+USE todo_list;
 
 -- Create table
 CREATE TABLE tasks (
